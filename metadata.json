@@ -1,6 +1,6 @@
 {
-  "name": "",
-  "description": "",
+  "name": "GrantFund – Milestone-Based Fund Release System",
+  "description": "GrantFund is a milestone-driven fund release and grant management platform for universities, researchers, and funding institutions.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
 }
